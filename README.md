@@ -1,2 +1,2 @@
 # furrandly-paws
-Dating website for your pets
+A dating website for your pets.
